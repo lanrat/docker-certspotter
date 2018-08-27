@@ -1,0 +1,5 @@
+Makefile
+Dockerfile
+.git/
+_data/
+README.md
